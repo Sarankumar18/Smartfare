@@ -1,5 +1,5 @@
 <?php
- 
+ echo "Hello World ";
 //Define your host here.
 $HostName = "sql207.epizy.com";
  
