@@ -1,6 +1,4 @@
 <?php
-
-
  
 //Define your database name here.
 $HostName = "localhost";
